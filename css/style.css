@@ -41,6 +41,9 @@ body{
     align-items: center;
     color: black;
 }
+.site:hover{
+    transform: scale(1.1);
+}
 .icon{
     display: flex;
 }
